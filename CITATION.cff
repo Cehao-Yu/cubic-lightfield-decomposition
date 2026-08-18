@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper and dataset."
+title: "Cubic light-field decomposition"
+abstract: >-
+  Python code for decomposing measured light fields into their diffuse and
+  directional components by the cubic illumination method.
+type: software
+authors:
+  - family-names: Yu
+    given-names: Cehao
+    orcid: "https://orcid.org/0000-0001-9209-9893"
+    affiliation: "The Hong Kong Polytechnic University"
+  - family-names: Pont
+    given-names: Sylvia C.
+    orcid: "https://orcid.org/0000-0002-9834-9600"
+    affiliation: "Delft University of Technology"
+  - family-names: Pastilha
+    given-names: Ruben
+    orcid: "https://orcid.org/0000-0002-5187-8476"
+    affiliation: "Newcastle University"
+  - family-names: Hurlbert
+    given-names: Anya
+    orcid: "https://orcid.org/0000-0002-9879-5758"
+    affiliation: "Newcastle University"
+license: MIT
+version: 1.0.0
+repository-code: "https://github.com/Cehao-Yu/cubic-lightfield-decomposition"
+keywords:
+  - daylight
+  - light field
+  - spectral irradiance
+  - cubic illumination method
+  - diffuse and directional illumination
+  - spectroradiometry
+references:
+  - type: data
+    title: "Spectral dataset of natural light fields measured in Northeast England"
+    doi: "10.5281/zenodo.21988101"
+    year: 2026
+    publisher:
+      name: Zenodo
+    authors:
+      - family-names: Yu
+        given-names: Cehao
+      - family-names: Pont
+        given-names: Sylvia C.
+      - family-names: Pastilha
+        given-names: Ruben
+      - family-names: Hurlbert
+        given-names: Anya
